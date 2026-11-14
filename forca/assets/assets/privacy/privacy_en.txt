@@ -1,0 +1,82 @@
+# Hangman privacy policy
+
+Last updated: November 13, 2026.
+
+This policy explains which data the Hangman game (Forca) uses on Android (phone, tablet and Google TV) and in the browser, at https://data4hub.github.io/forca/, and why.
+
+## Data kept on your device
+
+Hangman keeps on your device the language you chose, your statistics (wins, losses, streak and level), the hints you have left and your choice about ads. We don't receive this data.
+
+On Android, if backup is on, Android may include this data in your device's backup to your Google account, and it comes back when you reinstall the app or set up a new device. Clearing the app's data removes it from the device.
+
+In the browser, this data is kept in the browser's own storage, only for the data4hub.github.io site. Clearing the site's data in your browser settings removes it.
+
+Hangman doesn't ask you to sign up, and doesn't ask for your name, email, contacts, photos, precise location or other personal information.
+
+## Ads on Android
+
+On phones and tablets, Hangman shows ads from Google AdMob: a banner at the bottom of the screen and, only if you want, a rewarded ad that gives more hints. There are no ads on Google TV.
+
+Google's ads SDK, which is part of the app, automatically collects the data below and sends it to Google, which uses it to show ads, measure them and prevent fraud. The data is encrypted in transit.
+
+- the advertising ID of the device, the app set ID and, if applicable, other identifiers related to accounts signed in on the device;
+- the IP address, which may be used to estimate the approximate location of the device;
+- device information, such as the model and the system version;
+- interactions with the app and with the ads, such as app launches, taps and video views;
+- diagnostic data about the app and the SDK, such as app launch time, hangs and energy usage.
+
+## Ads in the browser
+
+In the browser, Hangman shows a Google AdSense banner at the bottom of the screen. There is no rewarded ad in the browser.
+
+Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet.
+
+On Hangman, though, ad requests are tagged for Google's teen treatment (see Ads for teens, below), so the ads shown here aren't personalized from your visits.
+
+To show and measure ads and prevent fraud, Google also receives the IP address and information about the browser, such as its type and language.
+
+Besides Google, other ad networks certified by Google may show or measure ads on the site, and may use cookies or similar technologies. Hangman doesn't block any of them, and the list changes over time. Google publishes each company's name, with a link to its website or privacy policy:
+
+- for visitors in Brazil: https://support.google.com/adsense/answer/9931967
+- for visitors in the European Economic Area, the United Kingdom and Switzerland: https://support.google.com/adsense/answer/9012903 (Google's consent form shows the same companies);
+- vendors certified by Google: https://support.google.com/adsense/answer/94149
+
+You can visit each company's website to opt out of its use of cookies for personalized advertising, if it offers that.
+
+You can opt out of personalized advertising in Google's Ads Settings, at https://adssettings.google.com, and out of many other companies' use of cookies for personalized advertising at https://optout.aboutads.info or, in Europe, at https://youronlinechoices.eu
+
+## Ads for teens
+
+In the app and in the browser, every ad request is tagged for Google's teen treatment, which turns on Google's protections for teens. So Hangman shows no personalized ads and no remarketing: ads are chosen from the content of the game or the page and from the approximate location, such as the city.
+
+Google and the other ad networks may still use cookies or identifiers to limit how often an ad is shown, for aggregated reports, and to fight fraud and abuse.
+
+Google handles ad data under its own policy: https://policies.google.com/technologies/partner-sites
+
+## Site hosting
+
+The data4hub.github.io site is hosted on GitHub Pages. GitHub logs the IP address of visitors to the site, for security: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+
+## Your choices
+
+- In the European Economic Area, the United Kingdom and Switzerland, Hangman shows Google's consent form before it loads ads, in the app and in the browser. The form lists Google's ad partners and asks whether they may store or read information on your device, such as the advertising ID or cookies, to show and measure ads. You can change your choice at any time in Settings > Ad privacy choices.
+- On Android, you can delete or reset the advertising ID in the privacy settings of your device. Where it is depends on the manufacturer.
+- In the browser, you can delete the site's cookies and data in your browser settings.
+- You can adjust the ads Google shows you at https://myadcenter.google.com
+
+## Children
+
+Hangman isn't made for children under 13 and doesn't knowingly collect data from children.
+
+## Your rights
+
+Under data protection laws, such as Brazil's LGPD and the GDPR, you can ask about your data and ask for it to be corrected or deleted. Hangman doesn't keep personal data on its own servers. Requests about ad data are handled by Google and the other ad networks, through the links above, and requests about the site's access logs by GitHub. For any question, contact us.
+
+## Contact
+
+Email: data4hub@gmail.com
+
+## Changes to this policy
+
+If this policy changes, the new version will be published here, with the date updated.

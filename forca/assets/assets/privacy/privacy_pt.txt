@@ -1,0 +1,82 @@
+# Política de privacidade do Forca
+
+Última atualização: 13 de novembro de 2026.
+
+Esta política explica quais dados o jogo Forca usa no Android (celular, tablet e Google TV) e no navegador, em https://data4hub.github.io/forca/, e por quê.
+
+## Dados guardados no seu aparelho
+
+O Forca guarda no seu aparelho o idioma escolhido, as estatísticas (vitórias, derrotas, sequência e nível), as dicas que restam e a sua escolha sobre os anúncios. Nós não recebemos esses dados.
+
+No Android, se o backup estiver ligado, o Android pode incluir esses dados no backup do aparelho na sua conta do Google, e eles voltam quando você reinstala o app ou configura um aparelho novo. Apagar os dados do app tira esses dados do aparelho.
+
+No navegador, esses dados ficam no armazenamento do próprio navegador, só para o site data4hub.github.io. Apagar os dados do site nas configurações do navegador tira esses dados.
+
+O Forca não pede cadastro, nome, e-mail, contatos, fotos, localização precisa nem outras informações pessoais.
+
+## Anúncios no Android
+
+No celular e no tablet, o Forca mostra anúncios do Google AdMob: um banner na parte de baixo da tela e, só se você quiser, um anúncio premiado que dá mais dicas. Na Google TV não há anúncios.
+
+O SDK de anúncios do Google, que faz parte do app, coleta automaticamente os dados abaixo e os envia ao Google, que os usa para mostrar anúncios, medir os resultados e evitar fraudes. Os dados viajam criptografados.
+
+- o ID de publicidade do aparelho, o ID do conjunto de apps e, quando houver, outros identificadores ligados às contas conectadas no aparelho;
+- o endereço IP, que pode ser usado para estimar a localização aproximada do aparelho;
+- informações do aparelho, como modelo e versão do sistema;
+- as interações com o app e com os anúncios, como abrir o app, toques e visualizações de vídeo;
+- dados de diagnóstico do app e do SDK, como o tempo para abrir o app, os travamentos e o uso de energia.
+
+## Anúncios no navegador
+
+No navegador, o Forca mostra um banner do Google AdSense na parte de baixo da tela. Não há anúncio premiado no navegador.
+
+Empresas terceiras, incluindo o Google, usam cookies para mostrar anúncios com base nas visitas anteriores de um usuário a este ou a outros sites. O uso de cookies de publicidade pelo Google permite que ele e os seus parceiros mostrem anúncios aos usuários com base nas visitas deles a este site e/ou a outros sites na internet.
+
+No Forca, porém, os pedidos de anúncio vão marcados para o tratamento de adolescentes (veja Anúncios para adolescentes, abaixo), então os anúncios mostrados aqui não são personalizados pelas suas visitas.
+
+Para mostrar e medir os anúncios e evitar fraudes, o Google também recebe o endereço IP e informações do navegador, como o tipo e o idioma.
+
+Além do Google, outras redes de publicidade certificadas pelo Google podem mostrar ou medir anúncios no site e usar cookies ou tecnologias parecidas. O Forca não bloqueia nenhuma delas, e a lista muda com o tempo. O Google publica o nome de cada empresa, com o link para o site ou a política de privacidade dela:
+
+- para quem está no Brasil: https://support.google.com/adsense/answer/9931967?hl=pt-BR
+- para quem está no Espaço Econômico Europeu, no Reino Unido e na Suíça: https://support.google.com/adsense/answer/9012903?hl=pt-BR (o aviso de consentimento do Google mostra as mesmas empresas);
+- fornecedores certificados pelo Google: https://support.google.com/adsense/answer/94149?hl=pt-BR
+
+Você pode visitar o site de cada empresa para desativar o uso de cookies dela para publicidade personalizada, se ela oferecer essa opção.
+
+Você pode desativar a publicidade personalizada nas configurações de anúncios do Google, em https://adssettings.google.com, e o uso de cookies de muitas outras empresas para publicidade personalizada em https://optout.aboutads.info ou, na Europa, em https://youronlinechoices.eu/pt/
+
+## Anúncios para adolescentes
+
+No app e no navegador, todo pedido de anúncio vai marcado para o tratamento de adolescentes do Google, que liga as proteções do Google para adolescentes. Por isso, o Forca não mostra anúncios personalizados nem de remarketing: os anúncios são escolhidos pelo conteúdo do jogo ou da página e pela localização aproximada, como a cidade.
+
+Mesmo assim, o Google e as outras redes de publicidade podem usar cookies ou identificadores para limitar quantas vezes um anúncio aparece, para relatórios agregados e para combater fraudes e abusos.
+
+O Google trata os dados dos anúncios conforme a política dele: https://policies.google.com/technologies/partner-sites
+
+## Hospedagem do site
+
+O site data4hub.github.io fica no GitHub Pages. O GitHub registra o endereço IP de quem visita o site, por segurança: https://docs.github.com/pt/pages/getting-started-with-github-pages/what-is-github-pages
+
+## Suas escolhas
+
+- No Espaço Econômico Europeu, no Reino Unido e na Suíça, o Forca mostra o aviso de consentimento do Google antes de carregar anúncios, no app e no navegador. Ele lista os parceiros de publicidade do Google e pergunta se eles podem guardar ou ler informações no seu aparelho, como o ID de publicidade ou cookies, para mostrar e medir anúncios. Você pode mudar essa escolha a qualquer momento em Configurações > Privacidade dos anúncios.
+- No Android, você pode apagar ou redefinir o ID de publicidade nas configurações de privacidade do aparelho. O caminho muda conforme o fabricante.
+- No navegador, você pode apagar os cookies e os dados do site nas configurações do navegador.
+- Você pode ajustar os anúncios que o Google mostra em https://myadcenter.google.com
+
+## Crianças
+
+O Forca não é feito para crianças menores de 13 anos e não coleta de propósito dados de crianças.
+
+## Seus direitos
+
+Pela LGPD e por outras leis de proteção de dados, você pode pedir informações, correção ou exclusão dos seus dados. O Forca não guarda dados pessoais em servidores próprios. Os pedidos sobre dados de anúncios são atendidos pelo Google e pelas outras redes de publicidade, pelos links acima, e os sobre os registros de acesso ao site, pelo GitHub. Para qualquer dúvida, fale com a gente.
+
+## Contato
+
+E-mail: data4hub@gmail.com
+
+## Mudanças nesta política
+
+Se esta política mudar, a nova versão será publicada aqui, com a data atualizada.

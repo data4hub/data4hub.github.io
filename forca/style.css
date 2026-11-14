@@ -1,0 +1,145 @@
+/* The pages around the Forca web game: how to play and the privacy policy,
+   in Portuguese and English, and the site's error page. */
+
+:root {
+  color-scheme: light dark;
+  --bg: #fdf7f2;
+  --surface: #ffffff;
+  --text: #2b1a12;
+  --muted: #6b5246;
+  --accent: #a8461d;
+  --accent-text: #ffffff;
+  --border: #ead8cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1e140f;
+    --surface: #2a1d16;
+    --text: #f6ebe4;
+    --muted: #cdb4a6;
+    --accent: #f08b5a;
+    --accent-text: #2b1206;
+    --border: #4a362b;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+a {
+  color: var(--accent);
+}
+
+header,
+main,
+footer {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.brand {
+  color: var(--text);
+  font-weight: 700;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+}
+
+main {
+  padding-top: 8px;
+  padding-bottom: 32px;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 24px 0 8px;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin: 32px 0 8px;
+}
+
+.lead {
+  font-size: 1.15rem;
+  color: var(--muted);
+}
+
+.play {
+  display: inline-block;
+  margin: 16px 0 8px;
+  padding: 12px 24px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--accent-text);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.note {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 4px 20px;
+  margin: 16px 0;
+}
+
+ul,
+ol {
+  padding-left: 1.4rem;
+}
+
+li + li {
+  margin-top: 4px;
+}
+
+footer {
+  padding-top: 16px;
+  padding-bottom: 32px;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.policy + .policy {
+  margin-top: 48px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
+.policy p,
+.policy li {
+  overflow-wrap: anywhere;
+}
